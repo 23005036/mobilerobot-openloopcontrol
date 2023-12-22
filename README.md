@@ -106,7 +106,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-[![IMAGE ALT TEXT HERE](https://youtube.com/shorts/DN7oSsqC-tU?feature=shared)
+ https://youtube.com/shorts/DN7oSsqC-tU?feature=shared
 
 
 ## Result:
